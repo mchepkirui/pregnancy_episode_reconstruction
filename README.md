@@ -1,8 +1,8 @@
 # Sequential Record Linkage Framework for Pregnancy Episode Reconstruction
 
-Code accompanying **Chapter 4** of [Thesis title / manuscript title], reconstructing pregnancy episodes from fragmented routine health registers lacking reliable patient identifiers, developed and validated within the **MiMBa Pregnancy Exposure Registry** (42 healthcare facilities, Homa Bay County, western Kenya).
-
-> **Citation:** [Author names]. [Manuscript title]. [Journal / Thesis, year]. DOI: [xxx]
+Code accompanying the manuscript title *Reconstructing Pregnancy Episodes from Fragmented Routine Health Records: A Sequential Machine Learning Augmented Record Linkage
+Framework* prepared for submission to Pharmacoepidemiology and Drug Safety.
+reconstructing pregnancy episodes from fragmented routine health registers lacking reliable patient identifiers, developed and validated within the **MiMBa Pregnancy Exposure Registry** (42 healthcare facilities, Homa Bay County, western Kenya).
 
 ---
 
